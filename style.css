@@ -87,5 +87,15 @@ body{
         font-size: 30px;
    
    }
+    .display{
+        height: 20px;
+        
+    }
+    .container button{
+        height: 60px;
+    }
+    .display img {
+        width: 20px;
+    }
     
 }
